@@ -2,7 +2,7 @@
 #
 # ADDOND_VERSION=2
 #
-# /system/addon.d/60-props.sh.sh
+# /system/addon.d/60-props.sh
 # During a LineageOS upgrade, this script backs up props,
 # /system is formatted and reinstalled, then the files are restored.
 #
