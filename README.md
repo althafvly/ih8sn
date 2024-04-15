@@ -50,6 +50,7 @@ Check the "Releases" section on the right. Make sure to download correct zip for
 
 - If your device isn't available in the list then follow below steps to create ih8sn config for your device.
 - If your model has spaces, then it must be replaced with underscore.
+- If your device isn't available in the list and you don't create ih8sn config for it, default config (system/etc/props.conf) will be used.
 
 ### Configure props.conf for your device.
 
