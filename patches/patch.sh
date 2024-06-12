@@ -38,6 +38,5 @@ apply_patch() {
     echo -e "${GREEN}.................${NOCOLOR}"
 }
 
-apply_patch system/security 0001-keystore-Block-key-attestation-for-Google-Play-Servi.patch
 apply_patch frameworks/base 0001-base-Block-key-attestation-for-SafetyNet.patch
 
